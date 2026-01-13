@@ -1,0 +1,55 @@
+# ===============================
+# Maven
+# ===============================
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+
+# ===============================
+# Spring Tool Suite (STS)
+# ===============================
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+# ===============================
+# IntelliJ IDEA
+# ===============================
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# ===============================
+# VS Code
+# ===============================
+.vscode/
+
+# ===============================
+# Logs
+# ===============================
+*.log
+
+# ===============================
+# OS files
+# ===============================
+.DS_Store
+Thumbs.db
+
+# ===============================
+# Application config (optional)
+# ===============================
+application.properties
+application.yml
+
+# ===============================
+# Build & Temp files
+# ===============================
+*.tmp
+*.bak
+*.swp
